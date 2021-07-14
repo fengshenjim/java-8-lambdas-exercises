@@ -23,7 +23,7 @@ The sub-packages then correspond to the chapter number, so the examples for chap
  `com.insightfullogic.java8.examples.chapter4`.
 
 Reporting Issues
-----------------
+-----------------
 
 If you find any issues with the exercises or examples then please submit them via the
 [O'Reilly Errata Page](http://www.oreilly.com/catalog/errata.csp?isbn=0636920030713).
